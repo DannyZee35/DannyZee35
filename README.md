@@ -1,33 +1,21 @@
-# Hi there 👋
+# Hi there, I'm Danial 👋
 
-My name is Danial but you can call me Danny. I am a Full-stack Web and Android Developer currently working as a Freelancer on Fiverr and Upwork.
+I'm a passionate Full Stack Web Developer with a Bachelor's degree in Software Engineering from Capital University of Science and Technology. With over 3 years of experience working as a freelancer, I've had the privilege of collaborating on various projects and honing my skills across the stack.
 
-# My Personal Stack:
-I have knowledge of many programming languages and frameworks but My personal stack that I also recommend to my clients is **React.Js** with **Firebase** or Using **React on the 
-frontend and use **Django** on the backend which is also a very extensive and powerfull backend framework written in **Python**.
+# 💻 Technologies & Tools:
 
-# Technologies I know :
+**Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Next.js, React.js, Bootstrap, Material UI, Shadcn/UI
 
-* Html/Css/Javascript
-* Python
-* Django/Flask
-* React.Js
-* React Native
-* Firebase
-* MySql
-* Node.Js
-* Material-Ui
-* Bootstrap 5
-* PostgreSQL
-* Next.Js
-* Php
-* Laravel
+**Backend**: Node.js, Django, Express.js
 
+**Databases**: Firebase, MySQL, MongoDB, SQLite
 
-
-I am also familiar with many Python libraries and I can make **Bots/Chatbots** or do any **Automation** and **Web-Scraping** work.
-
+**Tools**: Figma, Adobe XD, Git, GitHub
 
 # 📫 Contact Me :
-You can reach me by contacting me directly on my Whatsapp number **(+92 0335 7870507)** or you can reach me via email **itsdanny.zee@gmail.com**.
+If you have any questions or would like to collaborate, feel free to reach out to me:
+
+* Email: itsdanny.zee@gmail.com
+* Phone: +92 335 7870507
+* Portfolio: https://portfolio-snowy-alpha-21.vercel.app/
 
