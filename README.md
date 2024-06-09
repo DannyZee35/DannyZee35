@@ -17,5 +17,5 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 * Email: itsdanny.zee@gmail.com
 * Phone: +92 335 7870507
-* Portfolio: https://portfolio-snowy-alpha-21.vercel.app/
+* Portfolio: https://portfolio-z-seven.vercel.app
 
