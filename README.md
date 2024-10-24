@@ -1,6 +1,6 @@
 # Hi there, I'm Danial 👋
 
-I'm a passionate Full Stack Web Developer with a Bachelor's degree in Software Engineering from Capital University of Science and Technology. With over 3 years of experience working as a freelancer, I've had the privilege of collaborating on various projects and honing my skills across the stack.
+I'm a passionate Full Stack Web Developer with a Bachelor's degree in Software Engineering from Capital University of Science and Technology. With over 3 years of experience, I've had the privilege of collaborating on various projects and honing my skills across the stack.
 
 # 💻 Technologies & Tools:
 
