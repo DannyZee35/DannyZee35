@@ -21,7 +21,7 @@ shadcn/ui
 
 **Backend**: Node.js, Express.js, MongoDB, MySQ, Prisma, Drizzle
 
-**State Management**: Redux Toolkit, React QuerÀ
+**State Management**: Redux Toolkit, React Query
 
 **Tools**: Docker, Nginx, Figma, Adobe XD, Git, GitHub
 
@@ -30,5 +30,5 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 * Email: itsdanny.zee@gmail.com
 * Phone: +92 335 7870507
-* Portfolio: https://portfolio-z-seven.vercel.app
+* Portfolio: https://z-portfolio-topaz.vercel.app
 
