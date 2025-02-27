@@ -1,34 +1,67 @@
-# Hi there, I'm Danial 👋
+# Hi, I'm Danial 👋  
+**Senior Full-Stack Engineer & AI Solutions Specialist**  
+*Building scalable, full-stack AI-powered web applications.*  
 
-"I build web apps that work as hard as I do — without crashing at 3 AM." ⚡
+---
 
-💡 With 3 years of full-stack development experience, I specialize in creating scalable, production-grade web applications using the MERN stack and Next.js. My freelance journey has given me the opportunity to work on a variety of projects, each one expanding my skills and deepening my understanding of different technologies.
+I’m a **Senior Full-Stack Engineer** with over 4 years of experience in designing and delivering **production-grade web solutions**. My expertise lies in building **scalable, secure, and high-performance applications** that solve complex business challenges.  
 
-What really drives me is constantly learning and experimenting. I’m always on the lookout for smarter solutions to improve my workflow and the apps I build.
+I specialize in **full-stack development**, crafting robust backend systems and intuitive frontend experiences. I also integrate **cutting-edge AI tools** like OpenAI, LangChain, and vector databases to build intelligent, adaptive applications. My focus is on **clean, maintainable architecture** that adheres to **SOLID principles** and industry standards, ensuring future-proof and scalable solutions.  
 
-1) 📚 Always Learning: I stay up-to-date by continuously experimenting with the latest tech and best practices.
+I thrive in ambiguity and excel at solving unique challenges, delivering tailored solutions that align with business goals. Whether it’s streamlining workflows with **Docker, Nginx, and cloud platforms** like AWS and Vercel, or building **AI-powered platforms**, I bring a blend of technical expertise and strategic problem-solving to every project.  
 
-2) 🛠 Hands-on Project Leadership: From Figma designs to fully functional applications, I’ve been involved in leading and developing the entire flow.
+---
 
-3) 🤖 Self-Taught Expertise: My journey of learning everything from online resources like Google and YouTube has made me adaptable and quick to find solutions.
+### 🛠️ **Tech Stack**  
+**Frontend**: JavaScript, TypeScript, React, Next.js, Tailwind CSS, ShadCN UI, Material UI  
+**Backend**: Node.js, Express, MongoDB, MySQL, Prisma, GraphQL  
+**AI/ML**: OpenAI, LangChain, Gemini, Vector Databases  
+**DevOps & Cloud**: Docker, Nginx, AWS, Vercel  
 
-🌟 My future goal is to delve into AI integration. I’m excited about exploring how AI technologies can enhance user experiences and improve business processes, focusing on practical integration rather than model development.
+---
 
-# 💻 Technologies & Tools:
+### 🚀 **Featured Projects**  
 
-**Frontend**: Next.js, React.js, HTML5, CSS3, JavaScript (ES6+), Material UI, Ant Design, Tailwind CSS, 
-shadcn/ui
+#### **Snap Apply**  
+**Description**: A job application automation platform with AI-powered tools for resumes, cover letters, and mock interviews.  
+**Features**:  
+- Secure authentication with Google OAuth 2.0 and role-based access.  
+- AI-generated cover letters, mock interviews, and resume summaries using OpenAI.  
+- Drag-and-drop resume builder with real-time preview and PDF export.  
+- Job application tracking on LinkedIn and Indeed.  
+- Multilingual support (English/French) and cross-device compatibility.  
+**Tech Stack**: Next Js, React, Ant Design, Zustand, TanStack Query, Dnd Kit, TinyMce, OpenAi, Google OAuth 2.0, Stripe, Vercel, Puppeteer.
 
-**Backend**: Node.js, Express.js, MongoDB, MySQ, Prisma, Drizzle
+---
 
-**State Management**: Redux Toolkit, React Query
+#### **Power to HR**  
+**Description**: A modern platform for ticket sales, event information, and blog updates for the Power to HR Global HR Summit.  
+**Features**:  
+- Ticket purchase system with Regular and VIP packages.  
+- Multilingual support (English and Shqip).  
+- Mobile-responsive design for seamless cross-device accessibility.  
+- Payment integration and email notifications via Resend.  
+**Tech Stack**: Next.js, React, Tailwind CSS, Javascript, Vercel, Next-Intl, Resend.  
 
-**Tools**: Docker, Nginx, Figma, Adobe XD, Git, GitHub
+---
 
-# 📫 Contact Me :
-If you have any questions or would like to collaborate, feel free to reach out to me:
+#### **EHB Franchise Management**  
+**Description**: A franchise management portal for purchasing and managing master, corporate, and sub-franchises.  
+**Features**:  
+- Multi-step franchise booking with location data and interactive maps.  
+- Secure authentication with OTP verification and Google OAuth 2.0.  
+- Admin portal for user and franchise management.  
+- Payment processing via Stripe and data visualization with Recharts.  
+**Tech Stack**: React, Ant Design, Redux Toolkit, TanStack Query, Mailgun, Recharts, Node Js, Express Js, MongoDB, Google OAuth 2.0, Nginx, Stripe, Leaflet.  
 
-* Email: itsdanny.zee@gmail.com
-* Phone: +92 335 7870507
-* Portfolio: https://z-portfolio-topaz.vercel.app
+---
 
+### 📬 **Let’s Connect**  
+- **Email**: itsdanny.zee@gmail.com  
+- **LinkedIn**: www.linkedin.com/in/danial-ai  
+- **Portfolio**: https://zee-portfolio-2025-eight.vercel.app/
+
+---
+
+🔍 **Current Focus**: Building intelligent, scalable systems with AI and modern web technologies.  
+📍 Based in Pakistan | Open to collaborations that push boundaries.  
