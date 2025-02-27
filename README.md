@@ -22,7 +22,8 @@ I thrive in ambiguity and excel at solving unique challenges, delivering tailore
 
 ### 🚀 **Featured Projects**  
 
-#### **Snap Apply**  
+#### **Snap Apply** | [🔗 Live Demo]( https://snap-apply.vercel.app ) 
+ 
 **Description**: A job application automation platform with AI-powered tools for resumes, cover letters, and mock interviews.  
 **Features**:  
 - Secure authentication with Google OAuth 2.0 and role-based access.  
@@ -34,7 +35,8 @@ I thrive in ambiguity and excel at solving unique challenges, delivering tailore
 
 ---
 
-#### **Power to HR**  
+#### **Power to HR** | [🔗 Live Demo]( https://www.powertohr.com )   
+
 **Description**: A modern platform for ticket sales, event information, and blog updates for the Power to HR Global HR Summit.  
 **Features**:  
 - Ticket purchase system with Regular and VIP packages.  
@@ -45,7 +47,8 @@ I thrive in ambiguity and excel at solving unique challenges, delivering tailore
 
 ---
 
-#### **EHB Franchise Management**  
+#### **EHB Franchise Management** | [🔗 Live Demo]( https://www.franchise-ehb.com ) 
+
 **Description**: A franchise management portal for purchasing and managing master, corporate, and sub-franchises.  
 **Features**:  
 - Multi-step franchise booking with location data and interactive maps.  
