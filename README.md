@@ -1,5 +1,5 @@
 # Hi, I'm Danial 👋  
-**Senior Full-Stack Engineer & AI Solutions Specialist**  
+**Senior Full-Stack Engineer**  
 *Building scalable, full-stack AI-powered web applications.*  
 
 ---
