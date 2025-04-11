@@ -62,7 +62,7 @@ I thrive in ambiguity and excel at solving unique challenges, delivering tailore
 ### 📬 **Let’s Connect**  
 - **Email**: itsdanny.zee@gmail.com  
 - **LinkedIn**: www.linkedin.com/in/danial-ai  
-- **Portfolio**: https://zee-portfolio-2025-eight.vercel.app/
+- **Portfolio**: https://z-portfolio-topaz.vercel.app
 
 ---
 
