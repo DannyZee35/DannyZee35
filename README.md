@@ -37,7 +37,7 @@ I care about building things that are practical, efficient, and easy to maintain
 
 #### **Power to HR** | [🔗 Live Demo]( https://www.powertohr.com )   
 
-**Description**: A modern platform for ticket sales, event information, and blog updates for the Power to HR Global HR Summit.  
+**Description**: A platform that connects HR professionals globally through conferences and workshops, solving the gap in modern HR knowledge sharing and international networking.  
 **Features**:  
 - Ticket purchase system with Regular and VIP packages.  
 - Multilingual support (English and Shqip).  
