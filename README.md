@@ -4,34 +4,34 @@
 
 ---
 
-I’m a **Senior Full-Stack Engineer** with over 4 years of experience in designing and delivering **production-grade web solutions**. My expertise lies in building **scalable, secure, and high-performance applications** that solve complex business challenges.  
+I’m a Full-Stack Engineer with 4+ years of hands-on experience building modern web applications. I enjoy designing intuitive frontends with tools like React, Next.js, and Tailwind CSS, and pairing them with solid backend systems using Node.js, Express, or Flask.
 
-I specialize in **full-stack development**, crafting robust backend systems and intuitive frontend experiences. I also integrate **cutting-edge AI tools** like OpenAI, LangChain, and vector databases to build intelligent, adaptive applications. My focus is on **clean, maintainable architecture** that adheres to **SOLID principles** and industry standards, ensuring future-proof and scalable solutions.  
+I’m comfortable working with both SQL and NoSQL databases like PostgreSQL and MongoDB, and I’ve used Zustand and Redux Toolkit for managing complex state in production apps.
 
-I thrive in ambiguity and excel at solving unique challenges, delivering tailored solutions that align with business goals. Whether it’s streamlining workflows with **Docker, Nginx, and cloud platforms** like AWS and Vercel, or building **AI-powered platforms**, I bring a blend of technical expertise and strategic problem-solving to every project.  
+Recently, I’ve started adding simple AI features using OpenAI where it actually improves the user experience.
 
+I care about building things that are practical, efficient, and easy to maintain.
 ---
 
 ### 🛠️ **Tech Stack**  
-**Frontend**: JavaScript, TypeScript, React, Next.js, Tailwind CSS, ShadCN UI, Material UI  
-**Backend**: Node.js, Express, MongoDB, MySQL, Prisma, GraphQL  
-**AI/ML**: OpenAI, LangChain, Gemini, Vector Databases  
-**DevOps & Cloud**: Docker, Nginx, AWS, Vercel  
+**Frontend**: JavaScript, React.js, Next.js, Tailwind CSS, ShadCN UI, Material UI, Framer Motion, Zod, Zustand, Redux Toolkit 
+**Backend**: Node.js, Express.js, Flask, PostgreSQL, MongoDB 
+**AI**: OpenAI, Vercel AI SDK
+**Tools**: Docker, Nginx, Vercel
 
 ---
 
 ### 🚀 **Featured Projects**  
 
-#### **Snap Apply** | [🔗 Live Demo]( https://snap-apply.vercel.app ) 
- 
-**Description**: A job application automation platform with AI-powered tools for resumes, cover letters, and mock interviews.  
+#### **Good Carers** | [🔗 Live Demo]( https://careloops-frontend.vercel.app )   
+
+**Description**: A resume builder tailored specifically for the aged care industry in Australia. It helps job seekers create professional resumes with industry-relevant content and design. 
 **Features**:  
-- Secure authentication with Google OAuth 2.0 and role-based access.  
-- AI-generated cover letters, mock interviews, and resume summaries using OpenAI.  
-- Drag-and-drop resume builder with real-time preview and PDF export.  
-- Job application tracking on LinkedIn and Indeed.  
-- Multilingual support (English/French) and cross-device compatibility.  
-**Tech Stack**: Next Js, React, Ant Design, Zustand, TanStack Query, Dnd Kit, TinyMce, OpenAi, Google OAuth 2.0, Stripe, Vercel, Puppeteer.
+- AI-generated summaries and cover letters customized for aged care roles.
+- Dynamic form with support for multiple entries (experience, education, skills), tailored to aged care.
+- Real-time resume preview with 5 professionally designed templates.
+- PDF download, authentication, and data persistence for logged-in users.
+**Tech Stack**: React.js, Next.js, Tailwind CSS, ShadCN, Framer Motion, Zod, Python, Flask, PostgreSQL
 
 ---
 
@@ -47,22 +47,22 @@ I thrive in ambiguity and excel at solving unique challenges, delivering tailore
 
 ---
 
-#### **EHB Franchise Management** | [🔗 Live Demo]( https://www.franchise-ehb.com ) 
+#### **EJ Management Consultancy** | [🔗 Live Demo]( https://www.ejmanagement.co.uk )   
 
-**Description**: A franchise management portal for purchasing and managing master, corporate, and sub-franchises.  
+**Description**: A professional consulting website built for EJ Management Consultancy to showcase their services and engage clients through an informative and modern platform.  
 **Features**:  
-- Multi-step franchise booking with location data and interactive maps.  
-- Secure authentication with OTP verification and Google OAuth 2.0.  
-- Admin portal for user and franchise management.  
-- Payment processing via Stripe and data visualization with Recharts.  
-**Tech Stack**: React, Ant Design, Redux Toolkit, TanStack Query, Mailgun, Recharts, Node Js, Express Js, MongoDB, Google OAuth 2.0, Nginx, Stripe, Leaflet.  
+- Service listing with clear CTAs for client inquiries.
+- Integrated contact form with email handling.
+- Fully responsive and accessible design.
+- Clean layout with professional styling tailored to the brand 
+**Tech Stack**: Next.js, React, Tailwind CSS, JavaScript, Vercel, Resend.  
 
 ---
 
 ### 📬 **Let’s Connect**  
 - **Email**: itsdanny.zee@gmail.com  
 - **LinkedIn**: www.linkedin.com/in/danial-ai  
-- **Portfolio**: https://z-portfolio-topaz.vercel.app
+- **Portfolio**: https://minimal-portfolio-psi-five.vercel.app/
 
 ---
 
