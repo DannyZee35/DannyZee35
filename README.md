@@ -15,8 +15,11 @@ I care about building things that are practical, efficient, and easy to maintain
 
 ### 🛠️ **Tech Stack**  
 **Frontend**: JavaScript, React.js, Next.js, Tailwind CSS, ShadCN UI, Material UI, Framer Motion, Zod, Zustand, Redux Toolkit 
+
 **Backend**: Node.js, Express.js, Flask, PostgreSQL, MongoDB 
+
 **AI**: OpenAI, Vercel AI SDK
+
 **Tools**: Docker, Nginx, Vercel
 
 ---
